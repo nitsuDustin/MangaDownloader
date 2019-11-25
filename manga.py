@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup as bs
 main_url = "http://www.mangareader.net"
 header = {"Accept-Encoding": "identity"}
 
-#TODO: Implemt error handling!!!
+#TODO: Implement error handling!!!
 
 """
     getPage
